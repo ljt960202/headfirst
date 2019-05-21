@@ -12,5 +12,6 @@ public class MainTest {
         HomeTheaterFacade homeTheaterFacade = new HomeTheaterFacade();
         homeTheaterFacade.ready();
         homeTheaterFacade.play();
+
     }
 }
